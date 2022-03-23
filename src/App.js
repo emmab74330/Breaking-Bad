@@ -55,6 +55,7 @@ function Home() {
   useEffect(() => {
     Characters()
   }, [])
+
   return (
     < div >
       {

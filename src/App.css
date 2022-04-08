@@ -1,2 +1,31 @@
-img{border-radius: 10px;}
-img{height: auto; width: 150px;}
+img {
+    border-radius: 10px;
+    box-align: center;
+    height: auto;
+    width: 150px;
+    text-align: center;
+}
+
+div {
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    text-align: center;
+    color: #40826d;
+    background-color: #f5ebda;
+}
+
+li {
+    list-style: none;
+}
+
+.info {
+    font-size: 15px;
+}
+
+.death {
+    font-size: 18px;
+}
+
+.quotes {
+    font-size: 15px;
+    text-align: left;
+}
